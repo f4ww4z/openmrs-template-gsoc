@@ -1,0 +1,23 @@
+very light yellow - #EEA616
+orangey yellow - #E59C06
+gsoc blue - #203855
+practically white - #f5f7f8
+
+We are very pleased to announce that 
+
+Your time with us comes to an end
+
+thank you for putting in the work
+
+we'd like you to stay with us
+
+
+Your time with us comes to an end, and we are pleased to announce that our GSOC students have contributed massively to OpenMRS during the summer. These include the addition of new, optimized modules, improvements to our <insert adj here> Reference Application, developing mobile clients (such as the Android client) amongst other awesome efforts during your time with us. 
+
+We'd like to say a warm thank you to all our GSOC participants and we hope you will continue contributing to the world's open source medical record system.
+
+<style type="text/css">
+      table, tr, th, td {
+        border: 1px solid black;
+      }
+  </style>
